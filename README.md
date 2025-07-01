@@ -1,2 +1,3 @@
-# n8n-on-render
-n8n cloud deploy for Render
+# n8n on Render
+
+This is a minimal n8n deployment template for Render.com
